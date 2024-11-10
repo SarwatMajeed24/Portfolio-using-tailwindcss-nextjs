@@ -8,12 +8,11 @@ const About = () => {
       <section className="text-gray-600 body-font">
         <div className="container mx-auto flex px-4 sm:px-6 lg:px-8 py-16 md:py-24 flex-col md:flex-row items-center">
           
-          
           <div className="order-first md:order-last lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mt-8 md:mt-0 md:ml-8">
             <Image
               className="object-cover object-center rounded-full w-full h-auto"
               alt="Sarwat Majeed"
-              src="/accessts/picture/Profile Picture.jpeg"
+              src="/accessts/picture/my pic.jpeg"
               width={200} 
               height={200} 
               priority={true} 

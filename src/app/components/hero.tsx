@@ -10,7 +10,7 @@ const Hero = () => {
       <section className="text-gray-600 body-font w-full h-full flex flex-col items-center justify-center">
         <div className="flex title-font font-medium items-center text-gray-900 mb-6">
           <Image 
-            src="/accessts/picture/Profile Picture.jpeg" 
+            src="/accessts/picture/my pic.jpeg"
             alt="Sarwat Majeed" 
             width={200} 
             height={200} 

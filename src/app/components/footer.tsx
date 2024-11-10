@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="container px-5 py-8 mx-auto flex flex-col sm:flex-row items-center">
           <div className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 mb-4 sm:mb-0">
             <Image 
-              src="/accessts/picture/Profile Picture.jpeg" 
+              src="/accessts/picture/my pic.jpeg"
               alt="Sarwat Majeed" 
               width={40} 
               height={50} 

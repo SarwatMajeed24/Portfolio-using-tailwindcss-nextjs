@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="container mx-auto flex flex-wrap p-2 md:p-4 flex-col md:flex-row items-center justify-between">
           <div className="flex items-center mb-4 md:mb-0">
             <Image 
-              src="/accessts/picture/Profile Picture.jpeg"  
+              src="/accessts/picture/my pic.jpeg"
               alt="Sarwat Majeed" 
               width={50} 
               height={50} 
